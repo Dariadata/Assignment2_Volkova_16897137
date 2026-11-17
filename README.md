@@ -1,14 +1,13 @@
 ### Degree-based seeding (τ = 0.2)
-
-<img src="degree.gif" width="450">
+![Degree-based diffusion]\(degree.gif)
 
 ### Random-based seeding (τ = 0.2)
 
-<img src="random.gif" width="450">
+![Random-based diffusion]\(random.gif)
 
 ### Betweenness-based seeding (τ = 0.2)
 
-<img src="betweenness.gif" width="450">
+![Betweenness-based diffusion]\(betweenness.gif)
 
 ### Network visualisations are stored here:
 
@@ -19,4 +18,3 @@
 2. In the left-hand panel, select **Snapshots and Stories**.
 3. Under **Stories**, select the saved story with the same name as the project (degree, random or betweenness).
 4. Click **Play** to watch the network diffusion animation.
-
