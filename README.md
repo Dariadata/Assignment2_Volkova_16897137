@@ -1,14 +1,14 @@
 ### Degree-based seeding (τ = 0.2)
 
-![Degree-based diffusion](degree.gif)
+<img src="degree.gif" width="450">
 
 ### Random-based seeding (τ = 0.2)
 
-![Random-based diffusion](random.gif)
+<img src="random.gif" width="450">
 
 ### Betweenness-based seeding (τ = 0.2)
 
-![Betweenness-based diffusion](betweenness.gif)
+<img src="betweenness.gif" width="450">
 
 ### Network visualisations are stored here:
 
