@@ -1,15 +1,7 @@
 # Assignment 2: Dynamics on Networks — Thresholds and Spreading
 
 ## Overview
-This project examines how political information spreads across a Telegram network of pro- and anti-Kremlin channels using Granovetter's threshold model of collective behaviour.
-
-The analysis explores how network structure, adoption thresholds, and initial seeding strategies influence information diffusion and the likelihood of large-scale cascades.
-
-## Repository Contents
-- `analysis.ipynb` — Jupyter Notebook containing the network analysis, model implementation, simulations, and visualisations.
-- `cosmograph_nodes.csv` — Node data.
-- `cosmograph_edges.csv` — Edge data.
-- `report.pdf` — Final policy report presenting the methodology, results, and policy implications.
+This project examines how political information spreads across a Telegram network of pro- and anti-Kremlin channels using Granovetter's threshold model of collective behaviour. The analysis explores how network structure, adoption thresholds, and initial seeding strategies influence information diffusion and the likelihood of large-scale cascades. 
 
 ## Fun visualisations
 
